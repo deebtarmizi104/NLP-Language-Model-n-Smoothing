@@ -6,7 +6,7 @@ import math
 
 def ngram():
 
-    os.chdir("C:/Users/User5/Desktop/NLP/Codes Dataset/1814162_1818060-Exercise 5")
+    os.chdir("C:/Users/User5/Desktop/NLP/Codes Dataset")
     #create an empty dictionary for unigrams, bigram, trigram   
     unigram = {}  
     bigram = {}
