@@ -2,7 +2,7 @@
 
 Write a Python program (modify the file ngram_test.py) that calculates the
 probability of the following sentence using a trigram model (ignore the
-start <s> and end <s/> marker for now) :
+start and end marker for now) :
 
 “Most mental disorders can is treatable through early detection of signs or symptoms”
 
