@@ -1,9 +1,3 @@
-'''
-Exercise #5
-Name: Anis Zahirah binti Ahmad Madani 1818060
-      Wan Nurul Adibah binti Wan Tarmizi 1814162
-'''
-
 #This program demonstrates steps to extract n-grams and save it in a file
 import re
 import os
